@@ -138,7 +138,7 @@ page_sections:
     developers and an environment for Web3 users acting as their user agent allowing
     Single Sign In. It provides complete traceless Web3 browsing, handles the user
     wallet and provides a FDP Storage interface for managing the User Personal Storage
-    for dApps.<br>You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
+    for dApps.<br>To quickly get started check <a href="https://fairdatasociety.github.io/blossom/" title="Blossom Browser Extension Getting Started">this guide</a>.<br>You can access the GitHub documentation <a href="https://github.com/fairDataSociety/blossom"
     title="Blossom repo">here</a>.
   slug: ''
   media:
