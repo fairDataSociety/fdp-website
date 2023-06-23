@@ -96,7 +96,7 @@ page_sections:
     storage as the Desktop App.   <br>It consists of a typical "Drive" interface with
     files and folders, making it convenient for end users. You can access the GitHub<span
     class="Apple-converted-space"> </span><a href="https://github.com/fairDataSociety/fairdrive-theapp"
-    title="">here</a> or try it out <a href="https://app.fairdrive.fairdatasociety.org/"
+    title="">here</a> or try it out <a href="https://join.fairdrive.io/"
     title="FD Web App">here</a>.  <br>Read more about Fairdrive by going to Fairdrive
     <a href="https://fairdrive.fairdatasociety.org/" title="Fairdrive">page</a>.<br><br><strong>FairPass<br></strong>A
     decentralized password manager built with FairOS on top of Swarm storage. It can
