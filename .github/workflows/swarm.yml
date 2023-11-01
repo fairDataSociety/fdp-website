@@ -70,4 +70,4 @@ jobs:
           DEPLOYMENT: .
           PURGE_URL: '"https://fairdrive.fairdatasociety.org'
         run: |
-          curl -s ${{ env.PURGE_URL }}/deploy/purge?token=${{ secrets.purge_token }} -H "site: fairdrive.io" -H "uri: /"
+          curl -s ${{ env.PURGE_URL }}/deploy/purge?token=${{ secrets.purge_token }} -H "site: fairdataprotocol.link.fairdatasociety.org" -H "uri: /"
