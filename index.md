@@ -68,13 +68,14 @@ page_sections:
     simple CLI application helps you to interact with all base functionalities of
     FDP. Currently, it manages the Personal Storage and accounts. You can install
     it easily from <a href="https://www.npmjs.com/package/@fairdatasociety/fdp-cli"
-    title="fdp-cli-npm">NPM</a>.<br><br><strong>Fair Data Protocol Tutorial</strong><br>An
-    interactive tutorial for developers on getting started with Fair Data Protocol
+    title="fdp-cli-npm">NPM</a>.<br><br><strong>Fair Data Protocol Tutorials</strong><br>A <a href="https://github.com/fairDataSociety/tutorials-fairdrive/blob/main/FDP-TUTORIAL.md"
+    title="Getting Started with FDP ">here</a> tutorial explains creating a decentralized application using Fair Data Protocol (FDP) and Swarm, creating an example spreadsheet dApp.<br>An interactive tutorial for developers on getting started with Fair Data Protocol
     is available <a href="https://github.com/fairDataSociety/fdp-storage-tutorial/"
     title="FDP Tutorial">here</a>. The first part involves setting up a development
     environment with fdp-play and using fdp-storage.<br>A quickstart example todos
     app based on the tutorial above is available <a href="https://github.com/fairDataSociety/fdp-storage-todos"
     title="TODOs example app">here</a>.<br>
+       
   headline: Fair Data Protocol Toolkit
   slug: ''
   media:
